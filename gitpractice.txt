@@ -1,1 +1,1 @@
-its my second practice of git.
+its my second practice of git. I just add a file usind git add. command then commit it using git commit -m command.
