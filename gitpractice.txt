@@ -1,1 +1,2 @@
 its my second practice of git. I just add a file usind git add. command then commit it using git commit -m command.
+there is a little change in this text.
